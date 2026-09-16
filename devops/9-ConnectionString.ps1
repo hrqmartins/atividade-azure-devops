@@ -1,0 +1,1 @@
+$CONNECTION_STRING = "InstrumentationKey=496cb5cd-9ab5-4373-9e1d-9489115c2fed;IngestionEndpoint=https://mexicocentral-0.in.applicationinsights.azure.com/;LiveEndpoint=https://mexicocentral.livediagnostics.monitor.azure.com/;ApplicationId=1a193d45-7b1d-4f66-8c62-b945568ac84d"
